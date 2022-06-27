@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project.Core.Domain.Entities.User">
+    <Market X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAAAAAACgAAAAAAQAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Domain.Entities.Market">
+    <Market X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Market.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Core.Domain.Entities.Address">
+    <Market X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAIAAAAAQAA=</HashCode>
+      <FileName>Entities\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Project.Core.Domain.Enums.Gender">
+    <Market X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Enums\Gender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
